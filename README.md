@@ -19,4 +19,4 @@ Sample website with plenty of files for demos
 please fork first
 
 ## Copyright
-git - training
+git - training All richts reserved.
