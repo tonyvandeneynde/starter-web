@@ -13,3 +13,6 @@ kakkeraaj
 Sample website with plenty of files for demos
 
 ## How to contribute
+
+## Copyright
+git - training
