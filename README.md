@@ -5,7 +5,7 @@ more changes from myfeature branch 2
 
 ## Introduction
 blablabla
-change in master
+change feature2
 
 ## Purpose
 
