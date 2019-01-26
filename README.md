@@ -1,7 +1,6 @@
 # Starter Web Repo
 
-This repository is for showing how Git and GitHub work blabla. Adding a line for rebasing example,
-more changes from myfeature branch 2
+This repository is for showing how Git and GitHub work blabla. updating line
 
 ## Introduction
 blablabla
